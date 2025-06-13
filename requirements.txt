@@ -1,0 +1,23 @@
+# Required packages
+gdstk               # For GDS file reading and layout analysis
+pandas              # For Excel report generation and data handling
+openpyxl            # Excel xlsx support for pandas
+argparse            # CLI argument parsing
+tqdm                # To display progress bars in loops or long-running tasks.
+xlsxwriter          # For writing files in the XLSX file format.
+
+# For enhanced HTML reporting and GUI
+jinja2
+pyqt5
+tk
+
+# For unit testing
+unittest2
+pytest
+
+# Built in python
+logging
+datetime
+#os
+#sys
+

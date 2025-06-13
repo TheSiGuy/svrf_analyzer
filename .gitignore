@@ -1,0 +1,39 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+myenv/
+path/
+__pycache__/
+src/gui/__pycache__
+src/output_reports
+src/__pycache__
+src/utils/__pycache__
+tests/__pycache__
+
+
+
+templates/
+# Editor/IDE settings
+.vscode/
+.idea/
+templates/
+
+# System files
+.DS_Store
+
+# Testing
+.pytest_cache/
+
+# Env files
+.env
+
+# Output report directories
+out_reports/
+output_reports/
+
+# input testcases
+input_files
